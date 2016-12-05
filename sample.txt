@@ -2,9 +2,9 @@
 Version Control - CVS
 
 Before Aqua Data Studio's CVS client Before Aqua Data Studio's CVS client can be used, there must first be a remote CVS file repository for it to communicate with and a local mount created in the Files Browser for the local client repository. If there is no mount currently listed in the Files Browser, right clicking and choosing "Checkout Project" will generate a local mount to place the checkout in. For an explanation of how the Files Browser displays version control status, see the screenshot and discussion in the Files Browser page within the Workspace and Docking Framework section.
+dddd
 
-
-
+ass
 How to mount a Version Control repository 
 Outside of ADS, create or find a directory for use with CVS or Subversion. This will become your client repository.
 Within ADS, mount the directory from within the Scripts pane by right clicking and selecting Mount Directory.
